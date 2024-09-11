@@ -71,13 +71,13 @@
     "react-live.css",
     "typings/react-live.d.ts"
   ],
-  "author": "@FormidableLabs",
+  "author": "@monstgame192",
   "bugs": {
     "url": "https://github.com/philpl/react-live/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/FormidableLabs/react-live"
+    "url": "https://github.com/monstgame192/react-live"
   },
   "engines": {
     "npm": ">= 2.0.0",

@@ -8,9 +8,9 @@ sidebar_position: 5
 
 `react-live` doesn't currently support configuring the transpiler and it ships with Sucrase. The current workaround for using some experimental features `Sucrase` doesn't support would be to use the `transformCode` prop on `LiveProvider` to transform your code with `babel` alongside `Sucrase`.
 
-## Comparison to [component-playground](https://github.com/FormidableLabs/component-playground)
+## Comparison to [component-playground](https://github.com/monstgame192/component-playground)
 
-There are multiple options when it comes to live, editable React component environments. Formidable actually has **two** first class projects to help you out: [`component-playground`](https://github.com/FormidableLabs/component-playground) and [`react-live`](https://github.com/FormidableLabs/react-live). Let's briefly look at the libraries, use cases, and factors that might help in deciding which is right for you.
+There are multiple options when it comes to live, editable React component environments. Formidable actually has **two** first class projects to help you out: [`component-playground`](https://github.com/monstgame192/component-playground) and [`react-live`](https://github.com/monstgame192/react-live). Let's briefly look at the libraries, use cases, and factors that might help in deciding which is right for you.
 
 Here's a high-level decision tree:
 

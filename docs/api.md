@@ -18,7 +18,7 @@ It supports these props, while passing any others through to the `children`:
 | language      | `PropTypes.string` | What language you're writing for correct syntax highlighting. (Default: `jsx`)                                                                                                                                                                                                                |
 | enableTypeScript      | `PropTypes.bool` | Enables TypeScript support in transpilation. (Default: `true`)                                                                                                                                                                                                                |
 | disabled      | `PropTypes.bool`   | Disable editing on the `<LiveEditor />` (Default: `false`)                                                                                                                                                                                                                                    |
-| theme         | `PropTypes.object` | A `prism-react-renderer` theme object. See more [here](https://github.com/FormidableLabs/prism-react-renderer#theming)                                                                                                                                                                        |
+| theme         | `PropTypes.object` | A `prism-react-renderer` theme object. See more [here](https://github.com/monstgame192/prism-react-renderer#theming)                                                                                                                                                                        |
 
 All subsequent components must be rendered inside a provider, since they communicate
 using one.
@@ -29,7 +29,7 @@ with valid JSX elements.
 
 ### `<LiveEditor />`
 
-This component renders the editor that displays the code. It is a wrapper around [`react-simple-code-editor`](https://github.com/satya164/react-simple-code-editor) and the code highlighted using [`prism-react-renderer`](https://github.com/FormidableLabs/prism-react-renderer).
+This component renders the editor that displays the code. It is a wrapper around [`react-simple-code-editor`](https://github.com/satya164/react-simple-code-editor) and the code highlighted using [`prism-react-renderer`](https://github.com/monstgame192/prism-react-renderer).
 
 | Name    | PropType                                    | Description                                                       |
 | ------- | ------------------------------------------- | ----------------------------------------------------------------- |

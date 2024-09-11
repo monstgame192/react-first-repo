@@ -18,7 +18,7 @@ import { LiveProvider, LiveEditor, LiveError, LivePreview } from "react-live";
 
 ### How does it work?
 
-It takes your code and transpiles it with [Sucrase](https://github.com/alangpierce/sucrase), while the code is displayed using [`use-editable`](https://github.com/FormidableLabs/use-editable) and the code is highlighted using [`prism-react-renderer`](https://github.com/FormidableLabs/prism-react-renderer).
+It takes your code and transpiles it with [Sucrase](https://github.com/alangpierce/sucrase), while the code is displayed using [`use-editable`](https://github.com/monstgame192/use-editable) and the code is highlighted using [`prism-react-renderer`](https://github.com/monstgame192/prism-react-renderer).
 
 The transpiled code is then rendered in the preview component (`LivePreview`), which does a fake mount if the code
 is a React component.
@@ -32,5 +32,5 @@ Prior to `v3.0.0`, earlier versions of the library used different internals. We 
 
 Please see also the related Formidable libraries:
 
-- [https://github.com/FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer)
-- [https://github.com/FormidableLabs/use-editable](https://github.com/FormidableLabs/use-editable)
+- [https://github.com/monstgame192/prism-react-renderer](https://github.com/monstgame192/prism-react-renderer)
+- [https://github.com/monstgame192/use-editable](https://github.com/monstgame192/use-editable)

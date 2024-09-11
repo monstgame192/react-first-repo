@@ -3,7 +3,7 @@
   "changelog": [
     "@svitejs/changesets-changelog-github-compact",
     {
-      "repo": "FormidableLabs/react-live"
+      "repo": "monstgame192/react-live"
     }
   ],
   "access": "public",

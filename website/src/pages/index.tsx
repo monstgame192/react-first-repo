@@ -38,7 +38,7 @@ export default function Index() {
             { link: "/open-source/react-live/docs", title: "Documentation" },
             { link: "#demo", title: "Demo" },
             {
-              link: "https://github.com/FormidableLabs/react-live",
+              link: "https://github.com/monstgame192/react-live",
               title: "Github",
             },
           ]}
@@ -88,14 +88,14 @@ export default function Index() {
           },
           {
             name: "figlog",
-            link: "https://github.com/FormidableLabs/FigLog",
+            link: "https://github.com/monstgame192/FigLog",
             description:
               "FigLog is the easiest and most efficient way to document team decisions and the evolution of your changes in Figma.",
             title: "FigLog",
           },
           {
             name: "envy",
-            link: "https://github.com/FormidableLabs/envy",
+            link: "https://github.com/monstgame192/envy",
             description:
               "Envy will trace the network calls from every application in your stack and allow you to view them in a central place.",
           },

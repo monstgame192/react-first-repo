@@ -32,7 +32,7 @@ const config = {
           path: "../docs",
           sidebarPath: require.resolve("./sidebars.js"),
           editUrl:
-            "https://github.com/FormidableLabs/react-live/tree/master/website",
+            "https://github.com/monstgame192/react-live/tree/master/website",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -70,7 +70,7 @@ const config = {
         items: [
           { to: "docs", label: "Documentation", position: "left" },
           {
-            href: "https://github.com/FormidableLabs/react-live",
+            href: "https://github.com/monstgame192/react-live",
             className: "header-github-link",
             "aria-label": "GitHub Repository",
             position: "right",

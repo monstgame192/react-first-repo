@@ -10,7 +10,7 @@
 <a href="https://npmjs.com/package/react-live"><img src="https://img.shields.io/npm/v/react-live.svg"></a>
 <img src="https://img.badgesize.io/https://unpkg.com/react-live/dist/react-live.min.js?label=size">
 <img src="https://img.shields.io/badge/module%20formats-umd%2C%20cjs%2C%20esm-green.svg">
-<a href="https://github.com/FormidableLabs/react-live#maintenance-status">
+<a href="https://github.com/monstgame192/react-live#maintenance-status">
   <img alt="Maintenance Status" src="https://img.shields.io/badge/maintenance-active-green.svg" />
 </a>
 </p>
@@ -26,9 +26,9 @@ Come learn more at our [docs site](https://commerce.nearform.com/open-source/rea
 ## Support
 
 Have a question about react-live? Submit an issue in this repository using the
-["Question" template](https://github.com/FormidableLabs/react-live/issues/new?template=question.md).
+["Question" template](https://github.com/monstgame192/react-live/issues/new?template=question.md).
 
-Notice something inaccurate or confusing? Feel free to [open an issue](https://github.com/FormidableLabs/react-live/issues/new/choose) or [make a pull request](https://github.com/FormidableLabs/react-live/pulls) to help improve the documentation for everyone!
+Notice something inaccurate or confusing? Feel free to [open an issue](https://github.com/monstgame192/react-live/issues/new/choose) or [make a pull request](https://github.com/monstgame192/react-live/pulls) to help improve the documentation for everyone!
 
 The source for our docs site lives in this repo in the [`docs`](docs) folder.
 
